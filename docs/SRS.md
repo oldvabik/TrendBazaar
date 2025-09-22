@@ -76,16 +76,16 @@
 Главное меню веб-приложения включает:  
 
 ### Авторизация / Регистрация
-![Авторизация и регистрация](mockups/auth_registration.png)
+![Авторизация и регистрация](mockups/auth.png)
 
 ### Сброс пароля через почту
-![Сброс пароля](mockups/password_reset.png)
+![Сброс пароля](mockups/reset_password.png)
 
 ### Главная страница
-![Главная страница](mockups/homepage.png)
+![Главная страница](mockups/home.png)
 
 ### Категории товаров
-![Категории](mockups/categories.png)
+![Категории](mockups/category.png)
 
 ### Детали продукта
 ![Детали продукта](mockups/product_details.png)
